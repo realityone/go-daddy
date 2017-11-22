@@ -17,3 +17,5 @@ This project will be abandoned suddenly after it is finished.
 
 - [std::option](https://doc.rust-lang.org/std/option/)
 - [std::option::Option](https://doc.rust-lang.org/std/option/enum.Option.html)
+- [core::result](https://doc.rust-lang.org/std/result/)
+- [core::result::Result](https://doc.rust-lang.org/core/result/enum.Result.html)
