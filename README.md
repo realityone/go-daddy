@@ -2,6 +2,7 @@
 Modern language features in Go.
 
 [![Build Status](https://travis-ci.org/realityone/go-daddy.svg?branch=master)](https://travis-ci.org/realityone/go-daddy)
+[![Go Report Card](https://goreportcard.com/badge/github.com/realityone/go-daddy)](https://goreportcard.com/report/github.com/realityone/go-daddy)
 
 ## Summary
 
