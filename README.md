@@ -1,6 +1,8 @@
 # go-daddy
 Modern language features in Go.
 
+[![Build Status](https://travis-ci.org/realityone/go-daddy.svg?branch=master)](https://travis-ci.org/realityone/go-daddy)
+
 ## Summary
 
 This is the daddy who protects you leaving from nil pointer panic and error handling hell.
